@@ -1,0 +1,17 @@
+{
+	"firstname":"Abdulsamad",
+	"lastname":"Usman",
+	"hobbies":
+		[
+		"Playing Piano",
+		"Playing Guitar",
+		"Programming"
+		],
+	"age":25,
+	"girlfriend":
+		{
+		"name":"My Lovely Guitar",
+		"age":1,
+		"color":"lightbrown"
+		}
+}
